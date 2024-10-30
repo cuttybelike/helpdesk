@@ -4,4 +4,4 @@ The link below provides general troubleshoot issues to resolve possible connecti
 [Link](https://www.techtarget.com/searchnetworking/answer/What-are-the-3-most-common-network-issues-to-troubleshoot)
 
 Here's a link that probes common troubleshooting questions with some examples, followed by solutions and some steps to take to solve the issue. The link is separated into several section and what steps to take to pin point the problem. 
-[Link]([https://www.bleepingcomputer.com/forums/t/396690/basic-troubleshooting-probing-questions/](https://www.easeus.com/computer-instruction/laptop-wont-connect-to-wifi-but-phone-will.html?srsltid=AfmBOopbDixHfWkwZpbXA-rLqRgw0E5iKLWDO6CSGpMe3TN3apIjjp-t)
+[Link](https://www.easeus.com/computer-instruction/laptop-wont-connect-to-wifi-but-phone-will.html?srsltid=AfmBOopbDixHfWkwZpbXA-rLqRgw0E5iKLWDO6CSGpMe3TN3apIjjp-t)
